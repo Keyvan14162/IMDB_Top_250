@@ -41,7 +41,7 @@ if len(sys.argv) >= 3:  # Only 1 parameter plz
 
 elif len(sys.argv) == 2:  # Correct use
     if sys.argv[1] == "help":
-        sys.stdout.write("You must have internet connection\nUse: imdb.py <number of top movies to show>\n")
+        sys.stdout.write("You must have internet connection\nUse:python imdb.py <number of top movies to show>\n")
         sys.stdout.write("You can only enter one parameter and parameter must be between 0 and 250")
         sys.exit(0)
     try:
