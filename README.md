@@ -11,7 +11,7 @@ Sample use: python imdb.py 90
 Output:(can change)
 
 <Response [200]>
-1 Header:The Shawshank Redemption Rate:9.3
+1 Header:The Shawshank Redemption Rate:9.3 \n
 2 Header:The Godfather Rate:9.2
 3 Header:The Dark Knight Rate:9
 4 Header:The Godfather: Part II Rate:9
