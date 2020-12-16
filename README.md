@@ -6,4 +6,5 @@ For help: python imdb.py help
 You can only enter one parameter and parameter must be between 0 and 250
 Also you can execute from the an ide but than you cant choose number of movies to be shown
 
+![](sample.jpg)
 
